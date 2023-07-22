@@ -7,8 +7,7 @@ As I begin my Front End Development Journey, I am using frontendmentor.io to pro
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://peterthezoe.github.io/QR_Code_Project_1/
 
 ### Built with
 
